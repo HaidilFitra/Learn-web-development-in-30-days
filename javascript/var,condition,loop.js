@@ -64,3 +64,5 @@ do {
   i++
   console.log(txt)
 } while(i < 10)
+
+// Source By https://www.w3schools.com/js/js_loops.asp
